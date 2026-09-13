@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:project_blog_app/pages/homePage.dart';
 import 'package:project_blog_app/pages/registerPage.dart';
+// TODO: Pembagian Branch - Fitur Login Page
 
 void main() {
   runApp(const MyApp());
