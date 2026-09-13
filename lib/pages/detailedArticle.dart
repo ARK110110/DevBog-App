@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_blog_app/pages/editArticle.dart';
-
+// TODO: Pembagian Branch - Fitur Detailed Page
 class DetailedArticle extends StatefulWidget {
   final Map<String, dynamic> item;
 
