@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:project_blog_app/pages/homePage.dart';
 import 'package:project_blog_app/pages/registerPage.dart';
+// TODO: Pembagian Branch - Fitur Login Page
 
 void main() {
   runApp(const MyApp());
@@ -29,7 +30,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  // Controller untuk menangkap input Username & Password
+  // Controller untuk menangkap input Username dan Password
   final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
 

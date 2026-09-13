@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:project_blog_app/pages/managementPage.dart';
 import 'package:project_blog_app/pages/detailedArticle.dart';
+// TODO: Pembagian Branch - Fitur Home Page
 
 class HomePage extends StatefulWidget {
   final String username;
