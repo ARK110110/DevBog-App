@@ -30,7 +30,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  // Controller untuk menangkap input Username & Password
+  // Controller untuk menangkap input Username dan Password
   final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
 
